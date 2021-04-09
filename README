@@ -1,0 +1,78 @@
+
+Question:
+
+You are given a positive number N and your task is to check if a given positive integer is a power of two or not a power of two.
+
+Input Description:
+
+The first line contains an integer N (1<=N<=10^20).
+
+Output Description:
+
+Print "YES" if the given positive integer is a power of two else print "NO".
+
+Hints:
+
+Check whether the given positive integer is a power of two or not a power of two.
+
+Sample Input:
+
+64
+
+Sample Output:
+
+YES
+
+Explanation:
+
+As 2^6=64, 64 is a power of 2, so the ouput is YES.
+
+Testcase 1:
+
+Input:
+
+5678342
+
+Output:
+
+NO
+
+Testcase 2:
+
+Input:
+
+524288
+
+Output:
+
+YES
+
+Testcase 3:
+
+Input:
+
+8589934592
+
+Output:
+
+YES
+
+Testcase 4:
+
+Input:
+
+268435456
+
+Output:
+
+YES
+
+Testcase 5:
+
+Input:
+
+9231234359872
+
+Output:
+
+NO
